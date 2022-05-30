@@ -1,1 +1,1 @@
-# chronic-disease-prediction
+# predicting-chronic-disease
